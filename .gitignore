@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #STM32CubeMX文件保存位置信息​
 .mxproject​
 ​
@@ -31,3 +32,10 @@ JLinkSettings.ini​
 *.TMP​
 EventRecorderStub.scvd​
 RTE
+=======
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+>>>>>>> a5d15c4ab5fcc15dc300bab6966a39e4aa039f56
